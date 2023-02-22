@@ -19,16 +19,22 @@ public class State
 	public String getName()
 	{
 		return name;
+		
+		
 	}
 	
 	public String getCapital()
 	{
 		return capital;
+		
+		
 	}
 	
 	public String getNickname()
 	{
 		return nickname;
+		
+		
 	}
 	
 	public int getPopulation()
